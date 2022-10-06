@@ -12,9 +12,9 @@ import { UserService } from 'src/app/core/Services/user.service';
        
       <div class="card">
     <div class="card-content">
-      <!-- <a routerLink="/users/{{user.login}}">
+      <a routerLink="/users/{{user.login}}">
       {{user.login}}
-      </a>  -->
+      </a> 
     </div>  
     </div>
 
